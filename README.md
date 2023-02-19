@@ -23,7 +23,7 @@ React Native module to open other application.
 If using yarn:
 
 ```
-yarn add https://github.com/ndawinata/react-native-open-application.git
+yarn add git+https://github.com/ndawinata/react-native-open-application.git
 ```
 
 
